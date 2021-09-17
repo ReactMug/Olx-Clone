@@ -1,0 +1,16 @@
+.product{
+    margin: 20px;
+    border: 1px solid lightgray;
+
+}
+.product__Image{
+    
+    margin-left: 30px;
+    height: 300px;
+    width: 400px;
+    border-radius: 7px;
+    content:url(https://cf.ltkcdn.net/cars/images/std/223247-800x600r1-Car-Parked.jpg);
+}
+.product__priceAdd{
+ margin-left: 30px;
+}

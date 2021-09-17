@@ -1,0 +1,33 @@
+.topbar{
+    display: flex;
+    margin: 0 20px;
+    text-indent: 20px;
+}
+.mobile:hover{
+   color: orangered;
+   cursor: pointer;
+}
+.cars:hover{
+    color: orangered;
+    cursor: pointer;
+ }
+ .motorcycles:hover{
+    color: orangered;
+    cursor: pointer;
+ }
+ .houses:hover{
+    color: orangered;
+    cursor: pointer;
+ }
+ .tv:hover{
+    color: orangered;
+    cursor: pointer;
+ }
+ .tablets:hover{
+   color: orangered;
+   cursor: pointer;
+}
+.land:hover{
+    color: orangered;
+    cursor: pointer;
+ }
